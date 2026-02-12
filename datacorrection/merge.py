@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import random
 
 customerpath = r"C:\Users\Admin\Documents\dataset\dataset\customers.json"
 transactionpath = r"C:\Users\Admin\Documents\dataset\dataset\transactions.json"
