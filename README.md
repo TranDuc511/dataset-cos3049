@@ -4,3 +4,4 @@
 
 Cautions:
 You must merge customers and transactions into one dataset before training
+You can delete our data and replace them by your

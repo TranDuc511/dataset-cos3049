@@ -18,4 +18,3 @@ df = df.fillna(0) # write 0 in blank spaces
 save_path = f'dataset/merged/data.json'
 df.to_json (save_path, orient='records', indent=4)
 print("Done")
-S
