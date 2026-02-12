@@ -1,0 +1,22 @@
+[
+  {
+    "Customer ID": "ACC_001",
+    "Date of Birth": "1995-05-20",
+    "Gender": "Male",
+    "Location": "Ha Noi",
+    "Account Balance": 15000000,
+    "Transaction Time": "09:30:00", 
+    "Working Status": "Employed",
+    "Salary (per month)": 20000000
+  },
+  {
+    "Customer ID": "ACC_002",
+    "Date of Birth": "2000-01-10",
+    "Gender": "Female",
+    "Location": "Ho Chi Minh",
+    "Account Balance": 200000,
+    "Transaction Time": "03:15:00",
+    "Working Status": "Unemployed",
+    "Salary (per month)": 0
+  }
+]
